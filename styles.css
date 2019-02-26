@@ -1,0 +1,13 @@
+
+/*
+These are the styles for the whole document.
+*/
+
+.main-title {
+  background-color: aliceblue;
+}
+.fancy-font, .navbar {
+  font-family: 'Srisakdi', cursive;
+  
+  color: rgb(143, 46, 65)
+}
